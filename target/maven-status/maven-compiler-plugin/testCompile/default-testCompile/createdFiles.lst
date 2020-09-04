@@ -1,0 +1,16 @@
+tests\ReviewTest.class
+tests\AddProductToCompareTest.class
+tests\GuestUserCheckOut.class
+tests\ProductHoverMenuTest.class
+tests\ChangeCurrencyTest.class
+tests\UserRegisterationTest.class
+tests\MyAccountTest.class
+utilities\Helper.class
+tests\SearchProductUsingAutoSuggest.class
+tests\ShoppingCartTest.class
+tests\EmailToFriendTest.class
+tests\AddProductToWishListTest.class
+tests\ContactUsTest.class
+tests\RegisteredUserCheckout.class
+tests\SearchProductTest.class
+tests\TestBase.class
